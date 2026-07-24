@@ -2,6 +2,17 @@
 
 A modern, open-source desktop application to display daily Islamic prayer times, the current prayer, and prohibited times, built with **Qt6** and **C++17**. The application fetches data from the IslamicAPI service and caches it locally for **24 hours** to minimize network requests.
 
+> [!WARNING]
+> ## ⚠️ Disclaimer
+>
+> This application is **not an official source of prayer times** and **should not be relied upon as the sole authority for religious observance**.
+>
+> I am **not an Islamic scholar or a specialist in prayer time calculations**. This project simply retrieves prayer times from the IslamicAPI service and displays the data it receives. I do **not** calculate or verify the prayer times myself.
+>
+> Although the application attempts to present the information accurately, errors may occur due to API data, calculation methods, location settings, configuration mistakes, software bugs, network issues, or other unforeseen factors.
+>
+> **Always verify prayer times with your local mosque or other trusted official sources before relying on this application for religious purposes.** By using this software, you acknowledge that you are responsible for confirming the accuracy of the information for your own location and circumstances.
+
 > 📷 **Screenshot**
 >
 > Add a screenshot here later:

@@ -1,0 +1,9 @@
+
+# User configuration (contains API key & location)
+config.json
+
+# Build directory
+build/
+
+# Optionally ignore the cache file (stores prayer data for 24h)
+# prayer_cache.json
